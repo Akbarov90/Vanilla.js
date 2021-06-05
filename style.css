@@ -10,6 +10,7 @@
     width: 100%;
     height: 100vh;
     position: relative;
+    transition: all .5s linear;
 }
 
 .container-fluid {
@@ -54,6 +55,7 @@
     margin-top: 25px;
     border-radius: 30px;
     display: inline-block;
+    text-decoration: none;
 }
 
 .controller {
